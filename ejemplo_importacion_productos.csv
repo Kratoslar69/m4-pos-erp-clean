@@ -1,0 +1,21 @@
+tipo,marca,modelo,imei,sku,color,categoria,nombre,descripcion,precio_lista,precio_minimo,precio_payjoy,costo,comision
+equipo,Apple,iPhone 15 Pro,123456789012345,,Titanio Natural,Smartphones,iPhone 15 Pro 256GB,Smartphone Apple iPhone 15 Pro con 256GB de almacenamiento,25999,23999,27999,20000,8.5
+equipo,Samsung,Galaxy S24 Ultra,123456789012346,,Negro Titanio,Smartphones,Samsung Galaxy S24 Ultra 512GB,Smartphone Samsung Galaxy S24 Ultra con 512GB,29999,27999,31999,24000,8
+equipo,Apple,iPhone 15,123456789012347,,Azul,Smartphones,iPhone 15 128GB,Smartphone Apple iPhone 15 con 128GB de almacenamiento,19999,18499,21499,16000,7.5
+equipo,Samsung,Galaxy A54,123456789012348,,Verde Lima,Smartphones,Samsung Galaxy A54 5G 256GB,Smartphone Samsung Galaxy A54 5G con 256GB,8999,8299,9499,7000,6
+equipo,Motorola,Moto G84,123456789012349,,Azul Viva Magenta,Smartphones,Motorola Moto G84 5G 256GB,Smartphone Motorola Moto G84 5G con 256GB,5999,5499,6299,4500,5.5
+equipo,Xiaomi,Redmi Note 13 Pro,123456789012350,,Negro Medianoche,Smartphones,Xiaomi Redmi Note 13 Pro 256GB,Smartphone Xiaomi Redmi Note 13 Pro con 256GB,7499,6999,7899,5800,6
+equipo,Apple,iPhone 14,123456789012351,,Morado,Smartphones,iPhone 14 256GB,Smartphone Apple iPhone 14 con 256GB de almacenamiento,17999,16999,18999,14500,7
+equipo,Samsung,Galaxy Z Flip 5,123456789012352,,Grafito,Smartphones,Samsung Galaxy Z Flip 5 256GB,Smartphone plegable Samsung Galaxy Z Flip 5 con 256GB,24999,23499,26499,20000,8
+equipo,Google,Pixel 8 Pro,123456789012353,,Obsidiana,Smartphones,Google Pixel 8 Pro 256GB,Smartphone Google Pixel 8 Pro con 256GB de almacenamiento,21999,20499,23499,17500,7.5
+equipo,OnePlus,OnePlus 12,123456789012354,,Verde Flowy Emerald,Smartphones,OnePlus 12 256GB,Smartphone OnePlus 12 con 256GB de almacenamiento,16999,15999,17999,13500,7
+sim,,,,,,,SIM Card Prepago,Tarjeta SIM prepago con $100 de saldo incluido,100,80,,50,3
+sim,,,,,,,SIM Card Postpago,Tarjeta SIM postpago para planes mensuales,50,30,,20,2
+accesorio,Anker,PowerCore 20000,,,Negro,Accesorios,Batería Externa Anker 20000mAh,Batería portátil Anker PowerCore de 20000mAh con carga rápida,899,799,,600,5
+accesorio,Spigen,Ultra Hybrid,,,Transparente,Accesorios,Funda Spigen Ultra Hybrid para iPhone 15,Funda protectora transparente con bordes reforzados,299,249,,180,4
+accesorio,Belkin,BoostCharge Pro,,,Blanco,Accesorios,Cargador Rápido Belkin 30W USB-C,Cargador de pared con tecnología de carga rápida 30W,499,449,,320,4.5
+accesorio,Samsung,Galaxy Buds2 Pro,,,Grafito,Accesorios,Audífonos Samsung Galaxy Buds2 Pro,Audífonos inalámbricos con cancelación de ruido activa,3999,3699,,3000,6
+accesorio,Apple,MagSafe,,,Blanco,Accesorios,Cargador MagSafe para iPhone,Cargador inalámbrico magnético MagSafe original de Apple,899,799,,600,5
+accesorio,Otterbox,Defender Series,,,Negro,Accesorios,Funda Otterbox Defender para Samsung S24,Funda resistente con protección militar contra caídas,799,699,,500,4.5
+accesorio,Anker,Nano II 65W,,,Blanco,Accesorios,Cargador Anker Nano II 65W GaN,Cargador compacto de 65W con tecnología GaN,999,899,,700,5
+accesorio,dbrand,Grip Case,,,Negro Mate,Accesorios,Funda dbrand Grip para Google Pixel 8,Funda texturizada con agarre mejorado y protección completa,699,599,,450,4

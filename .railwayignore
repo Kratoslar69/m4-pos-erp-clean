@@ -1,0 +1,37 @@
+# Archivos de desarrollo
+node_modules
+.git
+.gitignore
+.env.local
+.env.development
+
+# Archivos de documentación
+docs/
+*.md
+!README.md
+!README_DEPLOY.md
+
+# Archivos de testing
+*.test.ts
+*.test.tsx
+__tests__/
+coverage/
+
+# Archivos temporales
+*.log
+.DS_Store
+.vscode/
+.idea/
+
+# Build artifacts locales (Railway los regenerará)
+dist/
+.next/
+out/
+
+# Archivos de migración (ya aplicados)
+migrations/
+
+# Ejemplos y backups
+ejemplo_*.csv
+*.backup
+*.sql

@@ -1,0 +1,17 @@
+✅ LOGIN EXITOSO
+
+El usuario pudo iniciar sesión correctamente con las credenciales:
+- Usuario: admin
+- Contraseña: admin
+
+El sistema redirigió automáticamente al dashboard después del login.
+
+El problema se resolvió implementando autenticación basada en localStorage + JWT en lugar de cookies HTTP-only, ya que el proxy de Manus estaba filtrando los headers Set-Cookie.
+
+Cambios implementados:
+1. Modificado el login para retornar el token JWT en la respuesta
+2. Guardado del token en localStorage después del login exitoso
+3. Modificado el cliente tRPC para enviar el token en el header Authorization
+4. Modificado el contexto del servidor para aceptar tokens desde el header Authorization
+5. Agregado botón de ojo para mostrar/ocultar contraseña
+6. Corregido el logo en la página de login

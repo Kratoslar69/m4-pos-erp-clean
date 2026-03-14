@@ -1,0 +1,16 @@
+tipo,marca,modelo,imei,color,categoria,nombre,descripcion,precio_lista,precio_minimo,precio_payjoy,costo,porcentaje_comision,base_comision,stock_actual,stock_minimo
+Equipo,Samsung,Galaxy A54,351234567890123,Negro,Smartphones,Samsung Galaxy A54,Smartphone 5G con cámara de 50MP y pantalla AMOLED,3499,3199,3699,2800,12,list_price,15,5
+Equipo,Xiaomi,Redmi Note 13,351234567890124,Azul,Smartphones,Xiaomi Redmi Note 13,Smartphone con batería de 5000mAh y carga rápida,2799,2499,2999,2100,10,list_price,20,8
+Equipo,Motorola,Moto G84,351234567890125,Verde,Smartphones,Motorola Moto G84,Smartphone con pantalla pOLED de 120Hz,2999,2699,3199,2300,11,list_price,12,5
+Equipo,Honor,Play 9A,862703070761776,Azul Oceano,Smartphones,Honor Play 9A,Smartphone económico con gran batería,2772,2049,2772,1848,10,list_price,25,10
+Equipo,Realme,C55,351234567890127,Dorado,Smartphones,Realme C55,Smartphone con cámara de 64MP,2199,1899,2399,1600,9,list_price,18,7
+Equipo,Samsung,Galaxy S23,351234567890128,Blanco,Smartphones Premium,Samsung Galaxy S23,Flagship con procesador Snapdragon 8 Gen 2,8999,8499,9499,7200,15,list_price,8,3
+Equipo,iPhone,14 Pro,351234567890129,Morado,Smartphones Premium,iPhone 14 Pro,iPhone con Dynamic Island y cámara de 48MP,12999,12499,13499,10500,18,list_price,5,2
+Equipo,Xiaomi,13T Pro,351234567890130,Negro,Smartphones Premium,Xiaomi 13T Pro,Smartphone con cámara Leica y carga de 120W,7999,7499,8499,6400,14,list_price,10,4
+Equipo,OnePlus,Nord 3,351234567890131,Gris,Smartphones,OnePlus Nord 3,Smartphone con pantalla AMOLED de 120Hz,4499,4199,4799,3600,12,list_price,14,6
+Equipo,Oppo,Reno 10,351234567890132,Rosa,Smartphones,Oppo Reno 10,Smartphone con diseño premium y carga rápida,3799,3499,3999,3000,11,list_price,16,6
+Equipo,Vivo,V29,351234567890133,Azul,Smartphones,Vivo V29,Smartphone con cámara frontal de 50MP,3999,3699,4299,3200,11,list_price,13,5
+Equipo,Huawei,Nova 11,351234567890134,Verde,Smartphones,Huawei Nova 11,Smartphone con HarmonyOS y cámara dual,3299,2999,3499,2600,10,list_price,11,5
+Equipo,Poco,X6 Pro,351234567890135,Amarillo,Smartphones,Poco X6 Pro,Smartphone gaming con procesador MediaTek,3499,3199,3699,2800,11,list_price,17,7
+Equipo,Nothing,Phone 2,351234567890136,Transparente,Smartphones Premium,Nothing Phone 2,Smartphone con diseño único y Glyph Interface,6999,6499,7499,5600,13,list_price,7,3
+Equipo,Google,Pixel 8,351234567890137,Azul Cielo,Smartphones Premium,Google Pixel 8,Smartphone con IA avanzada y cámara excepcional,9499,8999,9999,7600,15,list_price,6,2
